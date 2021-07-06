@@ -18,7 +18,7 @@ h1
     color:gray;
     font-size:25px;
     letter-spacing: 2.5px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 .button1
 {
@@ -33,6 +33,10 @@ h1
 .orange-color
 {
     color:tomato;
+}
+.first-section
+{
+    margin-bottom: 50px;
 }
 .flexible-container
 {
