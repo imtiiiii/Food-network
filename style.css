@@ -64,8 +64,16 @@ h1
     background-image: url(image/7.png);
     background-repeat: no-repeat;
     background-size: 1900px 900px;
+    margin-bottom: 60px;
 }
 .second-side-para
 {
     margin-bottom: 110px;
+}
+.my-recipies
+{
+    text-align: center;
+    margin-bottom:50px;
+    
+    font-size:30px;
 }
