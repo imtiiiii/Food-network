@@ -53,6 +53,7 @@ h1
 .first-side img
 {
     width: 50%;
+    height: 90%;
 }
 .second-section-right
 {
@@ -63,4 +64,8 @@ h1
     background-image: url(image/7.png);
     background-repeat: no-repeat;
     background-size: 1900px 900px;
+}
+.second-side-para
+{
+    margin-bottom: 110px;
 }
