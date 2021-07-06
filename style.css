@@ -13,6 +13,12 @@ h1
 {
     font-size: 80px;
 }
+.first-side-para
+{
+    color:gray;
+    font-size:25px;
+    letter-spacing: 2.5px;
+}
 .orange-color
 {
     color:tomato;
