@@ -108,3 +108,17 @@ h1
     padding:30px;
     box-shadow: 08px 08px 5px grey;
 }
+.social-media
+{
+    background-color: gray;
+    padding:30px;
+    border-radius: 10px;
+    margin:0 80px 30px 80px;
+    
+}
+.social-media-item
+{
+    
+    width: 33%;
+    padding-left:200px;
+}
