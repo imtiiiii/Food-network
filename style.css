@@ -53,18 +53,19 @@ h1
 .first-side img
 {
     width: 50%;
-    height: 90%;
+    height: 99%;
 }
 .second-section-right
 {
     padding-top:100px;
+    padding-right: 40px;
 }
 .second-section
 {
     background-image: url(image/7.png);
     background-repeat: no-repeat;
     background-size: 1900px 900px;
-    margin-bottom: 60px;
+    margin-bottom: 10px;
 }
 .second-side-para
 {
@@ -73,14 +74,13 @@ h1
 .my-recipies
 {
     text-align: center;
-    
-    
     font-size:30px;
 }
 .container
 {
     display: flex;
     padding:100px 200px;
+    
 }
 .image img
 {
@@ -88,32 +88,22 @@ h1
     height: 300px;
     border-radius: 10px;
 }
-#one-box
+.container-item
 {
     
     width: 400px;
     padding:30px;
-    box-shadow: 08px 08px 5px grey;
+    box-shadow: 5px 05px 5px grey;
+    border-radius: 10px;
+    margin-right: 150px;
 }
-#two-box
-{
-    width: 400px;
-    padding: 30px;
-    box-shadow: 08px 08px 5px grey;
-}
-#three-box
-{
-    
-    width: 400px;
-    padding:30px;
-    box-shadow: 08px 08px 5px grey;
-}
+
 .social-media
 {
-    background-color: gray;
+    background-color: rgb(252, 249, 249);
     padding:30px;
     border-radius: 10px;
-    margin:0 80px 30px 80px;
+    margin:0 200px 30px 200px;
     
 }
 .social-media-item
@@ -121,4 +111,12 @@ h1
     
     width: 33%;
     padding-left:200px;
+}
+footer
+{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding:50px 100px 50px 100px;
+    
 }
