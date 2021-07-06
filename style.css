@@ -18,6 +18,17 @@ h1
     color:gray;
     font-size:25px;
     letter-spacing: 2.5px;
+    margin-bottom: 20px;
+}
+.button1
+{
+    text-decoration:none;
+    color:white;
+    font-weight: 500;
+    background-image: linear-gradient(red,tomato);
+    border-radius: 80px;
+    padding-left:100px;
+    padding:30px;
 }
 .orange-color
 {
