@@ -58,3 +58,9 @@ h1
 {
     padding-top:100px;
 }
+.second-section
+{
+    background-image: url(image/7.png);
+    background-repeat: no-repeat;
+    background-size: 1900px 900px;
+}
